@@ -3,6 +3,7 @@
 - **Erase using index finger**
 - **Select diffrent colors using index and middle fingers**
 - **Change brush size using index, middle and ring fingers**
+![Example Image](https://ibb.co/sHtsV6p)
 
 
 # Virtual Mouse Control
