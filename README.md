@@ -1,3 +1,19 @@
+# How to Install
+- **Clone a Repository**
+  ```
+  git clone https://github.com/naimish18/Smart-PC-using-ML
+  ```
+- **Go to cloned Repository**  
+  ```
+  cd Smart-PC-using-ML
+  ```
+- **Install all requirements**
+  ```
+  pip install -r requirements.txt
+  ```
+  **Now you can run any py file**
+
+
 # Virtual Paint
 - **Draw using index finger**
 - **Erase using index finger**
