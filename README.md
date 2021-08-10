@@ -15,6 +15,10 @@
 
 
 # Virtual Paint
+- **Run using below command in CMD**
+  ```
+  python VirtualPaint.py
+  ```
 - **Draw using index finger**
 - **Erase using index finger**
 - **Select diffrent colors using index and middle fingers**
@@ -25,6 +29,10 @@
 
 
 # Virtual Mouse Control
+- **Run using below command in CMD**
+  ```
+  python VirtualMouse.py
+  ```
 - **Move mouse pointer using index finger**
 - **Do left click using index and middle fingers**
 - **Do right click using index, middle and ring fingers**
@@ -32,6 +40,10 @@
   ![Mouse Control Example](https://user-images.githubusercontent.com/50772162/128832626-c0a98257-9897-4f18-8bf7-df277b3b4e6a.JPG)
 
 # Fingers Counter
+- **Run using below command in CMD**
+  ```
+  python FingerCount.py
+  ```
 - **Can count how many fingers up**
 - **Can count fingers of n hands**
 
@@ -39,6 +51,10 @@
 
 
 # Volume Control
+- **Run using below command in CMD**
+  ```
+  python VolumeControl.py
+  ```
 - **Control volume using index and thumb**
 - **To set volume use pinky finger**
 
