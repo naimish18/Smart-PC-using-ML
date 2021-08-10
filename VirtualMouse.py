@@ -31,7 +31,10 @@ while True:
 
         if fingers[1] and fingers[2] and not fingers[3] and not fingers[4]:
             mouse.click('left')
-
+          
+        if fingers[1] and fingers[2] and fingers[3] and not fingers[4]:
+            mouse.click('right')
+            
     else:
         prev_x, prev_y = mouse.get_position()
 
